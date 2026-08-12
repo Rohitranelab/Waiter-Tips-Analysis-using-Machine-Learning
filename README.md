@@ -23,42 +23,42 @@ Source: [amankharwal/Website-data](https://raw.githubusercontent.com/amankharwal
 ### 1. Total Bill vs. Tip Amount by Day
 Scatter plot with OLS trendlines and party size as bubble size.
 
-![Total Bill vs. Tip Amount by Day](images/01_bill_vs_tip_by_day.png)
+![Total Bill vs. Tip Amount by Day](Images/01_bill_vs_tip_by_day.png)
 
 **Conclusion:** The graph shows a positive relationship between total bill and tip amount. As the total bill increases, the tip generally tends to increase as well. The trendlines for different days indicate a similar upward pattern, although there is some variation in tip amounts. Larger bubbles represent larger party sizes, suggesting that bigger groups often have higher total bills.
 
 ### 2. Total Bill vs. Tip Amount by Gender
 Scatter plot with OLS trendlines and party size as bubble size.
 
-![Total Bill vs. Tip Amount by Gender](images/02_bill_vs_tip_by_gender.png)
+![Total Bill vs. Tip Amount by Gender](Images/02_bill_vs_tip_by_gender.png)
 
 **Conclusion:** The graph shows a positive relationship between total bill and tip amount for both male and female customers. As the total bill increases, the tip generally increases as well. Male customers have more observations and appear more frequently at higher bill amounts.
 
 ### 3. Distribution of Tips by Day
 Pie chart of tip share across days.
 
-![Distribution of Tips by Day](images/03_tips_by_day.png)
+![Distribution of Tips by Day](Images/03_tips_by_day.png)
 
 **Conclusion:** Saturday accounts for the highest share of total tips (35.6%), followed by Sunday (33.8%). Thursday contributes 23.5%, while Friday has the lowest share at 7.1%.
 
 ### 4. Distribution of Tips by Gender
 Pie chart of tip share by gender.
 
-![Distribution of Tips by Gender](images/04_tips_by_gender.png)
+![Distribution of Tips by Gender](Images/04_tips_by_gender.png)
 
 **Conclusion:** Male customers have the highest share of total tips (66.3%), while female customers have the lowest share at 33.7%.
 
 ### 5. Distribution of Tips by Smoker
 Pie chart of tip share by smoking status.
 
-![Distribution of Tips by Smoker](images/05_tips_by_smoker.png)
+![Distribution of Tips by Smoker](Images/05_tips_by_smoker.png)
 
 **Conclusion:** Customers who smoke account for the highest share of total tips (61.8%), while non-smokers account for the lowest share at 38.2%.
 
 ### 6. Distribution of Tips by Meal Time
 Pie chart of tip share by lunch vs. dinner.
 
-![Distribution of Tips by Meal Time](images/06_tips_by_meal_time.png)
+![Distribution of Tips by Meal Time](Images/06_tips_by_meal_time.png)
 
 **Conclusion:** Dinner accounts for 74.6% of total tips, while lunch accounts for 25.4%.
 
