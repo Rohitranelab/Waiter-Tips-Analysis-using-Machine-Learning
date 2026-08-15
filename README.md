@@ -83,3 +83,4 @@ Tipping behavior at this restaurant is most strongly driven by **bill size** (an
 
 1. Install dependencies: `pip install pandas plotly`
 2. Open and run `Waiter_Tips_Analysis.ipynb` in Jupyter Notebook/Lab.
+3. 
